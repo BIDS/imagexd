@@ -1,2 +1,2 @@
-# imagexd
-Image analysis across domains
+# ImageXD
+Image analysis across domains - imagexd.org
